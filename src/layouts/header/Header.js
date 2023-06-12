@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import HeaderSearchForm from "../../components/HeaderSearchForm";
-import { About, Classes, Teacher } from "./Menus";
 
 const Header = () => {
 	useEffect(() => {
@@ -9,7 +8,6 @@ const Header = () => {
 			"counter-scroll header-fixed home2";
 	}, []);
 	const [form, setForm] = useState(false);
-	const [sidebarToggle, setSidebarToggle] = useState(false);
 
 	return (
 		<header id='header' className='d-none d-xl-block header_main header2'>
@@ -28,10 +26,7 @@ const Header = () => {
 								<div id='site-logo' className='clearfix'>
 									<Link href='/'>
 										<a className='logo'>
-											<img
-												src='assets/images/logo/logodark.png'
-												alt='Nextkid'
-											/>
+											<img src='assets/images/logo/nextkid.png' alt='Nextkid' />
 										</a>
 									</Link>
 								</div>
