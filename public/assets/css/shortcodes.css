@@ -455,8 +455,8 @@
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	width: 80px;
-	height: 80px;
+	width: 150px;
+	height: 60px;
 	z-index: 100;
 	margin: -30px 0 0 -30px;
 	background-image: url(../images/Favicon.png);
@@ -3587,6 +3587,7 @@
 
 .teacher .tf-section.tf-counter2 {
 	padding: 123px 0 0;
+	margin-bottom: 200px;
 }
 
 .teacher .tf-section.tf-counter2 .title-heading .title {

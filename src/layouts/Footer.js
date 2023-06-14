@@ -50,7 +50,7 @@ const Footer2 = () => {
 										<Link href='/'>
 											<a>
 												<img
-													src='assets/images/logo/nextkid.png'
+													src='assets/images/logo/nextkid-dark.png'
 													alt='Nextkid'
 												/>
 											</a>
