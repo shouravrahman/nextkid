@@ -13,15 +13,11 @@ const App = ({ Component, pageProps }) => {
 	return (
 		<Fragment>
 			<Head>
-				<title>Nextkid - Kindergarten React NextJs Template</title>
+				<title>Nextkid - Kindergarten NextJs Website</title>
 				<link rel='shortcut icon' href='assets/images/Favicon.png' />
 				<link
 					rel='apple-touch-icon-precomposed'
 					href='assets/images/Favicon.png'
-				/>
-				<link
-					href='https://fonts.googleapis.com/css2?family=Salsa&display=swap'
-					rel='stylesheet'
 				/>
 			</Head>
 			{loader && <PreLoader />}
