@@ -586,7 +586,7 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background-color: #d5d5d5db;
+	background-color: #1b0a0ab7;
 	opacity: 0.85;
 	background-size: cover;
 	-webkit-mask-image: url(../images/background/mask3.png);
@@ -692,25 +692,25 @@
 	color: #fff;
 }
 
-.inner-page .bg-inner1,
-.inner-page .bg-inner2,
-.inner-page .bg-inner3 {
+.bg-inner1,
+.bg-inner2,
+.bg-inner3 {
 	z-index: 4;
 	position: absolute;
 }
 
-.inner-page .bg-inner1 {
+.bg-inner1 {
 	top: -45px;
 	left: -8px;
 	max-width: 23%;
 }
 
-.inner-page .bg-inner2 {
+.bg-inner2 {
 	bottom: 50px;
 	left: 26%;
 }
 
-.inner-page .bg-inner3 {
+.bg-inner3 {
 	bottom: 85px;
 	right: 6.5%;
 }

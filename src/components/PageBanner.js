@@ -1,24 +1,25 @@
+/* eslint-disable @next/next/no-img-element */
 import Link from "next/link";
 const PageBanner = ({ pageName, pageTitle }) => {
 	return (
 		<section className='tf-page-title'>
 			<div className='overlay' />
 			<div className='overlay-bg' />
-			{/* <img
+			<img
 				src='assets/images/background/img1innerpage.png'
 				className='bg-inner1'
 				alt=''
-			/> */}
-			{/* <img
+			/>
+			<img
 				src='assets/images/background/img2innerpage.png'
 				className='bg-inner2'
 				alt=''
-			/> */}
-			{/* <img
-        src="assets/images/background/img3innerpage.png"
-        className="bg-inner3"
-        alt=""
-      /> */}
+			/>
+			<img
+				src='assets/images/background/img3innerpage.png'
+				className='bg-inner3'
+				alt=''
+			/>
 			<div className='container'>
 				<div className='row'>
 					<div className='col-12'>

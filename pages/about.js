@@ -590,7 +590,7 @@ const About = () => {
 								</div>
 								<h2 className='title clr-pri-2'>
 									What Parents Say About Our{" "}
-									<span className='clr-pri-3'>Kindco</span> Kindergarten
+									<span className='clr-pri-3'>Nextkid</span> Kindergarten
 								</h2>
 							</div>
 						</div>

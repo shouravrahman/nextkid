@@ -129,7 +129,7 @@ const Index = () => {
 									<RightArrow />
 								</div>
 								<h2 className='title clr-pri-2'>
-									Discover Now Why People Come With Kindco
+									Discover Now Why People Come With Nextkid
 								</h2>
 							</div>
 						</div>
@@ -834,7 +834,7 @@ const Index = () => {
 								</div>
 								<h2 className='title clr-pri-2'>
 									What Parents Say About Our
-									<span className='clr-pri-3'>Kindco</span> Kindergarten
+									<span className='clr-pri-3'>Nextkid</span> Kindergarten
 								</h2>
 							</div>
 						</div>
