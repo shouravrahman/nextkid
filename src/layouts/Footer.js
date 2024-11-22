@@ -11,9 +11,9 @@ const Footer2 = () => {
 								data-wow-delay='0.3ms'
 								data-wow-duration='1200ms'
 							>
-								<div className='subcribe-wp'>
-									<h2 className='title clr-pri-5'>Subscribe Our Newsletter</h2>
-									<p className='sub f-mulish clr-pri-2'>
+								<div className='subcribe-wp' >
+									<h2 className='title clr-pri-5 ' style={{color:"black"}}>Subscribe Our Newsletter</h2>
+									<p className='sub f-mulish clr-pri-2' style={{color:"black"}}>
 										Amet consectetur adipiscing elit, sed do eiusmod tempor
 										incididunt ut labore et dolore magna aliqua suspendisse
 										ultrices gravida. Risus commodo
